@@ -1,0 +1,15 @@
+C:\Users\Вячеслав\source\repos\lab004\lab004\obj\Debug\net6.0\lab004.csproj.AssemblyReference.cache
+C:\Users\Вячеслав\source\repos\lab004\lab004\obj\Debug\net6.0\lab004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вячеслав\source\repos\lab004\lab004\obj\Debug\net6.0\lab004.AssemblyInfoInputs.cache
+C:\Users\Вячеслав\source\repos\lab004\lab004\obj\Debug\net6.0\lab004.AssemblyInfo.cs
+C:\Users\Вячеслав\source\repos\lab004\lab004\obj\Debug\net6.0\lab004.csproj.CoreCompileInputs.cache
+C:\Users\Вячеслав\source\repos\lab004\lab004\bin\Debug\net6.0\lab004.exe
+C:\Users\Вячеслав\source\repos\lab004\lab004\bin\Debug\net6.0\lab004.deps.json
+C:\Users\Вячеслав\source\repos\lab004\lab004\bin\Debug\net6.0\lab004.runtimeconfig.json
+C:\Users\Вячеслав\source\repos\lab004\lab004\bin\Debug\net6.0\lab004.dll
+C:\Users\Вячеслав\source\repos\lab004\lab004\bin\Debug\net6.0\lab004.pdb
+C:\Users\Вячеслав\source\repos\lab004\lab004\obj\Debug\net6.0\lab004.dll
+C:\Users\Вячеслав\source\repos\lab004\lab004\obj\Debug\net6.0\refint\lab004.dll
+C:\Users\Вячеслав\source\repos\lab004\lab004\obj\Debug\net6.0\lab004.pdb
+C:\Users\Вячеслав\source\repos\lab004\lab004\obj\Debug\net6.0\lab004.genruntimeconfig.cache
+C:\Users\Вячеслав\source\repos\lab004\lab004\obj\Debug\net6.0\ref\lab004.dll
